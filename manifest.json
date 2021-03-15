@@ -1,0 +1,7 @@
+{
+    "name": "Search with DuckDuckGo",
+    "version": "1.0.0",
+    "description": "Does what it says on the tin! Adds DuckDuckGo alongside Google when right-clicking",
+    "author": "Tom_The_Geek#8559",
+    "license": "MIT"
+}
